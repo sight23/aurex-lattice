@@ -3,7 +3,7 @@ import subprocess
 import sys
 import time
 
-AUREX_URL = "https://raw.githubusercontent.com/velshadow/aurex-lattice/main/aurex_core.py"
+AUREX_URL = "https://raw.githubusercontent.com/sight23/aurex-lattice/main/aurex_core.py"
 AUREX_FILENAME = "aurex_core.py"
 
 def fetch_and_run():
